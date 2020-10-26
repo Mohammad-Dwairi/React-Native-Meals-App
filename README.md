@@ -24,3 +24,6 @@ Android | IOS
 Android | IOS
 ------------ | -------------
 ![alt text](https://i.imgur.com/LGB3iPJ.png) | ![alt text](https://i.imgur.com/n16To30.png)
+
+Developed after completing **React Native - The Practical Guide [2020 Edition]**
+link: https://www.udemy.com/course/react-native-the-practical-guide/
