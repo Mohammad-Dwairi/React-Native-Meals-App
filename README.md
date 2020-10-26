@@ -14,3 +14,8 @@ Android | IOS
 Android | IOS
 ------------ | -------------
 ![alt text](https://i.imgur.com/gUrNE0m.png) | ![alt text](https://i.imgur.com/Hrzk22a.png)
+
+# Meal Detail Screen
+Android | IOS
+------------ | -------------
+![alt text](https://i.imgur.com/hvgB0TU.png) | ![alt text](https://i.imgur.com/Hrzk22a.png)
