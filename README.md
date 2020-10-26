@@ -5,7 +5,7 @@ React Native Meals Application built using:
 * React Navigation
 * React Hooks
 
-# Categories Screen
+# Screens
 Categories | Meals | Meal Detail
 ------------ | ------------- | -------------
 ![alt text](https://i.imgur.com/POVXILb.png) | ![alt text](https://i.imgur.com/POVXILb.png) | ![alt text](https://i.imgur.com/POVXILb.png)
