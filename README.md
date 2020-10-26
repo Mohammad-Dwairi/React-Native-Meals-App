@@ -13,14 +13,14 @@ Android | IOS
 # Meals Screen
 Android | IOS
 ------------ | -------------
-![alt text](https://i.imgur.com/gUrNE0m.png) | ![alt text](https://i.imgur.com/Hrzk22a.png)
+![alt text](https://i.imgur.com/gUrNE0m.png) | ![alt text](https://i.imgur.com/IvBYChw.png)
 
 # Meal Detail Screen
 Android | IOS
 ------------ | -------------
-![alt text](https://i.imgur.com/hvgB0TU.png) | ![alt text](https://i.imgur.com/Hrzk22a.png)
+![alt text](https://i.imgur.com/hvgB0TU.png) | ![alt text](https://i.imgur.com/wk0ZIbe.png)
 
 # Filters Screen
 Android | IOS
 ------------ | -------------
-![alt text](https://i.imgur.com/LGB3iPJ.png) | ![alt text](https://i.imgur.com/Hrzk22a.png)
+![alt text](https://i.imgur.com/LGB3iPJ.png) | ![alt text](https://i.imgur.com/n16To30.png)
