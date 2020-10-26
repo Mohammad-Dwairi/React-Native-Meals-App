@@ -6,5 +6,7 @@ React Native Meals Application built using:
 - React Hooks
 
 # Categories Screen
-
-ANDROID ![alt text](https://i.imgur.com/t96FJh9.png)   IOS ![alt text](https://i.imgur.com/Hrzk22a.png)
+Android
+![alt text](https://i.imgur.com/t96FJh9.png)
+IOS
+![alt text](https://i.imgur.com/Hrzk22a.png)
