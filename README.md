@@ -8,7 +8,7 @@ React Native Meals Application built using:
 # Screens
 Categories | Meals | Meal Detail
 ------------ | ------------- | -------------
-![alt text](https://i.imgur.com/POVXILb.png) | ![alt text](https://i.imgur.com/POVXILb.png) | ![alt text](https://i.imgur.com/POVXILb.png)
+![alt text](https://i.imgur.com/POVXILb.png) | ![alt text](https://i.imgur.com/itxM9JO.png) | ![alt text](https://i.imgur.com/bRDA6vi.png)
 
 Developed after completing **React Native - The Practical Guide [2020 Edition]**
 link: https://www.udemy.com/course/react-native-the-practical-guide/
