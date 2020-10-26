@@ -8,7 +8,7 @@ React Native Meals Application built using:
 # Categories Screen
 Android | IOS
 ------------ | -------------
-![alt text](https://i.imgur.com/t96FJh9.png) | ![alt text](https://i.imgur.com/Hrzk22a.png)
+![alt text](https://i.imgur.com/t96FJh9.png) | ![alt text](https://i.imgur.com/Hrzk22a.png) | ![alt text](https://i.imgur.com/M5NzrH6.png)
 
 # Meals Screen
 Android | IOS
