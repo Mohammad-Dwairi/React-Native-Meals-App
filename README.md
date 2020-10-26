@@ -7,11 +7,11 @@ React Native Meals Application built using:
 
 # Categories Screen
 Android
-![alt text](https://i.imgur.com/t96FJh9.png)
-IOS
-![alt text](https://i.imgur.com/Hrzk22a.png)
 
-First Header | Second Header
+IOS
+
+
+Android | IOS
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+![alt text](https://i.imgur.com/t96FJh9.png) | ![alt text](https://i.imgur.com/Hrzk22a.png)
 Content in the first column | Content in the second column
